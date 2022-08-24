@@ -1,0 +1,70 @@
+.pricing {
+    padding: 80px 0px 70px;
+    background-color: #F5F5F5;
+}
+.title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 400;
+    margin-bottom: 34px;
+    color: #212121;
+}
+.description {
+    text-align: center;
+    margin-top: 34px;
+    font-family: "Open sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #86878B;
+}
+.list {
+    margin: 0px auto;
+}
+.list-item__tarif {
+    margin: 2px;
+    width: 340px;
+    height: 50px;
+    font-size: 20px;
+    background-color: #333333;
+    font-family: "Open sans";
+    font-weight: 700;
+    color: #fff;
+    padding: 12px 0;
+    text-align: center;
+}
+.list-item__cost {
+    margin: 2px;
+    width: 340px;
+    height: 100px;
+    font-size: 35px;
+    background-color: #333333;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 26px;
+    text-align: center;
+}
+.list-item__text {
+    margin: 2px 2px 4px;
+    width: 340px;
+    height: 50px;
+    font-size: 14px;
+    padding-top: 15px;
+    background-color: #333333;
+    font-family: "Open sans";
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+}
+.list-item {
+    margin: 4px;
+    width: 340px;
+    height: 40px;
+    font-size: 14px;
+    background-color: #FFFFFF;
+    font-family: "Open sans";
+    color: #86878B;
+    padding-top: 10px;
+    text-align: center;
+}

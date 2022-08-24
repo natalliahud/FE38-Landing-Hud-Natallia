@@ -1,0 +1,53 @@
+.awesome {
+    padding: 80px 0px 116px;
+}
+.title {
+   /* width: 409px;
+    margin: auto;*/
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    margin-bottom: 34px;
+    color: #212121;
+}
+.description {
+    text-align: center;
+    margin-top: 34px;
+    font-family: "Open sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #86878B;
+}
+.awesome-item {
+    width: 350px;
+}
+.awesome-img {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #E72424;
+    border-radius: 50%;
+    margin: 0px auto 30px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title-awesome {
+    text-align: center;
+    font-family: "Open sans";
+    font-size: 20px;
+    line-height: 27px;
+    margin-bottom: 16px;
+    color: #333333;
+}
+.awesome-text p {
+    width: 350px;
+    text-align: center;
+    font-family: "Open sans";
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+}
