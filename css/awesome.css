@@ -1,24 +1,6 @@
 .awesome {
     padding: 80px 0px 116px;
 }
-.title {
-    text-align: center;
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 42px;
-    margin-bottom: 34px;
-    color: #212121;
-}
-.description {
-    text-align: center;
-    margin-top: 34px;
-    font-family: "Open sans";
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 19px;
-    color: #86878B;
-}
 .awesome-item {
     width: 350px;
     margin: 0 15px;
@@ -29,10 +11,11 @@
     border: 1px solid #E72424;
     border-radius: 50%;
     margin: 0px auto 30px;
-    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 30px;
+    color: #ec8327;
 }
 .title-awesome {
     text-align: center;

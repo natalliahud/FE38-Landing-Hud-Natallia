@@ -1,0 +1,86 @@
+.footer {
+    background-color: #000000;
+    padding: 20px 0;
+}
+.footer-wrap {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+    width: 317px;
+    margin-bottom: 18px;
+}
+.footer-list-icons {
+    /*display: flex;
+    justify-content: center;
+    margin: 0 15px;*/
+}
+#footer-facebook {
+    font-size: 14px;
+    color: white;
+    transition: 0.3s;
+}
+#footer-facebook:hover {
+    color: rgb(235, 110, 114);
+}
+#footer-twitter {
+    font-size: 14px;
+    color: white; 
+    transition: 0.3s;
+}
+#footer-twitter:hover {
+    color: rgb(235, 110, 114);
+}
+#footer-google {
+    font-size: 14px;
+    color: white;
+    transition: 0.3s; 
+}
+#footer-google:hover {
+    color: rgb(235, 110, 114);
+}
+#footer-pinterest {
+    font-size: 14px;
+    color: white;
+    transition: 0.3s; 
+}
+#footer-pinterest:hover {
+    color: rgb(235, 110, 114);
+}
+#footer-instsgram {
+    font-size: 14px;
+    color: white; 
+    transition: 0.3s; 
+}
+#footer-instsgram:hover {
+    color: rgb(235, 110, 114);
+}
+#footer-stumbleupon {
+    font-size: 14px;
+    color: white;
+    transition: 0.3s; 
+}
+#footer-stumbleupon:hover {
+    color: rgb(235, 110, 114);
+}
+#footer-rss {
+    font-size: 14px;
+    color: white;
+    transition: 0.3s;   
+}
+#footer-rss:hover {
+    color: rgb(235, 110, 114);
+}
+.footer-text {
+    width: 170px;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: "Open sans";
+    text-align: center;
+}
+.fa-copyright {
+    color: #FFFFFF;
+}

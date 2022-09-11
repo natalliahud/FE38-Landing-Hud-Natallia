@@ -1,0 +1,47 @@
+.header {
+    background-color: #000000;
+    padding: 20px 0;
+}
+.header-wrap {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.logo {
+    color: #FFFFFF;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.logo::after {
+    content: 'IT';
+    width: 30px;
+    height: 29px;
+    font-size: 29px;
+    color: #EC7979;
+    margin-left: -6px;
+}
+.navigation {
+}
+.navigation-list {
+    width: 489px;
+    display: flex;
+    justify-content: space-around;
+}
+.navigation-list-item {
+      
+}
+.navigation-list-item a {
+    display: block;
+    font-size: 15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.7);
+    border-bottom: 1px solid transparent;
+}
+.navigation-list-item a:hover {
+    border-bottom: 1px solid rgb(241, 110, 110);
+}

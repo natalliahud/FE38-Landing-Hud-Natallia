@@ -1,0 +1,97 @@
+.social {
+    background-color: #F8EFEF;
+}
+.social-wrap {
+    margin: 0 -15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.social-left {
+    width: 365px;
+    margin: 0 15px;
+}
+.social-title {
+    margin: 15px 0;
+    font-size: 20px;
+    font-family: 'Open sans';
+    line-height: 27px;
+}
+.social-description p {
+    margin-bottom: 17px;
+    font-size: 14px;
+    color: #86878B;
+    line-height: 19px;
+    align-items: center;
+}
+.list-social {
+    width: 684px;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0;
+    /*text-align: center;*/
+}
+.list-social-icons *{
+    /*display: flex;
+    justify-content: center;*/
+    color: #b6b7b9;
+    /*margin: 0 15px;*/
+}
+#social-facebook {
+    font-size: 34px;
+    transition: 0.3s;
+}
+#social-facebook:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3);
+}
+#social-twitter {
+    font-size: 34px;
+    transition: 0.3s;
+}
+#social-twitter:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3);
+}
+#social-google {
+    font-size: 34px;
+    transition: 0.3s;
+}
+#social-google:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3);
+}
+#social-pinterest {
+    font-size: 34px;
+    transition: 0.3s;
+}
+#social-pinterest:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3); 
+}
+#social-instagram {
+    font-size: 34px;
+    transition: 0.3s;
+}
+#social-instagram:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3); 
+}
+#social-stumbleupon {
+    font-size: 34px;
+    transition: 0.3s;
+}
+#social-stumbleupon:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3);
+}
+#social-rss {
+    /*margin: 5px 0;*/
+    font-size: 33px;
+    transition: 0.3s;
+}
+#social-rss:hover {
+    color: rgb(242, 75, 145);
+    transform: scale(1.2) rotate(45deg) scale(1.3);
+}
