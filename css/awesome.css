@@ -1,6 +1,13 @@
 .awesome {
     padding: 80px 0px 116px;
 }
+.awesome-wrap {
+    margin: 68px -15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
 .awesome-item {
     width: 350px;
     margin: 0 15px;

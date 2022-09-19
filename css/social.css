@@ -2,11 +2,11 @@
     background-color: #F8EFEF;
 }
 .social-wrap {
-    margin: 0 -15px;
+    /*margin: 0 -15px;*/
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
 }
 .social-left {
     width: 365px;
@@ -30,13 +30,9 @@
     display: flex;
     justify-content: space-between;
     margin: 40px 0;
-    /*text-align: center;*/
 }
 .list-social-icons *{
-    /*display: flex;
-    justify-content: center;*/
     color: #b6b7b9;
-    /*margin: 0 15px;*/
 }
 #social-facebook {
     font-size: 34px;
